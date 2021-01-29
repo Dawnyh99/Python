@@ -1,0 +1,5 @@
+print("debug training:")
+# pdb.set_trace()
+a = input("input something:")
+print("you inputed: ",a,end='\n')
+print("end")
